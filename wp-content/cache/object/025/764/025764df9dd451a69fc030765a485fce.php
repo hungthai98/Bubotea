@@ -1,0 +1,1 @@
+ ßq`<?php exit; ?>a:1:{s:7:"content";a:7:{i:0;s:52:"template-single-productadd-to-cartvariationphp---500";i:1;s:31:"template-cartmini-cartphp---500";i:2;s:33:"template-part-content-product-500";i:3;s:32:"template-loopsale-flashphp---500";i:4;s:28:"template-loopratingphp---500";i:5;s:27:"template-looppricephp---500";i:6;s:33:"template-loopadd-to-cartphp---500";}}

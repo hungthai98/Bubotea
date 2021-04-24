@@ -1,0 +1,14 @@
+[2021-03-22 06:59:08 : INFO] - 
+ 
+[2021-03-22 06:59:08 : INFO] - Header for logs at time:  Mon, 22 Mar 2021 06:59:08 +0000 on https://bubotea.eu 
+[2021-03-22 06:59:08 : INFO] - WP: 5.7 
+[2021-03-22 06:59:08 : INFO] - PHP: 7.3.22 (fpm-fcgi, ) 
+[2021-03-22 06:59:08 : INFO] - MySQL: 5.5.5 
+[2021-03-22 06:59:08 : INFO] - WPLANG: vi 
+[2021-03-22 06:59:08 : INFO] - Server: Apache 
+[2021-03-22 06:59:08 : INFO] - Outbound connections: N 
+[2021-03-22 06:59:08 : INFO] - safe_mode: 0 
+[2021-03-22 06:59:08 : INFO] - max_execution_time: 300 
+[2021-03-22 06:59:08 : INFO] - memory_limit: 512M (used: 59.9M | 62M) 
+[2021-03-22 06:59:08 : INFO] - multisite: N 
+[2021-03-22 06:59:08 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 

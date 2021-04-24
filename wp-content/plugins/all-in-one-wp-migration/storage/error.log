@@ -1,0 +1,3 @@
+Apr 13 2021 02:32:06
+{"type":8,"message":"fwrite(): write of 287 bytes failed with errno=122 Disk quota exceeded","file":"\/var\/www\/vhosts\/bubotea.com\/httpdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","line":1225}
+

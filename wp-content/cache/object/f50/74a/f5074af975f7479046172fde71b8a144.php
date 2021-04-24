@@ -1,0 +1,1 @@
+7Þq`<?php exit; ?>a:1:{s:7:"content";a:5:{s:25:"_customize_changeset_uuid";a:1:{i:0;s:36:"e8d8ad04-3203-4c6c-a8bb-568c98388729";}s:17:"_wp_page_template";a:1:{i:0;s:14:"page-blank.php";}s:7:"_footer";a:1:{i:0;s:0:"";}s:13:"_thumbnail_id";a:1:{i:0;s:0:"";}s:10:"_edit_lock";a:1:{i:0;s:12:"1609123143:1";}}}
